@@ -16,7 +16,7 @@ export function Navbar() {
       <div className="flex items-center gap-6">
         <Link href="/">
           <h1 className="text-3xl font-semibold">
-            Razi<span className="text-blue-500">Fahrul</span>
+            Razi<span className="text-blue-500">Ayoy</span>
           </h1>
         </Link>
         <div className="hidden sm:flex items-center gap-6">
